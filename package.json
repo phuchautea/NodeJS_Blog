@@ -30,6 +30,6 @@
   "devDependencies": {
     "morgan": "^1.10.0",
     "node-sass": "^7.0.0",
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.20"
   }
 }
