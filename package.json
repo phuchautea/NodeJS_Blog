@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/phuchautea/NodeJS_Blog#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^5.3.4"
   },
   "devDependencies": {
